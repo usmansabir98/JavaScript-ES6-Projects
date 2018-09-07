@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "name": "sodabicarb",
+      "purpose": "anaplylactic shock",
+      "quantity": "15",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Dexamethazone Sodium phosphate",
+      "purpose": "anaplylactic shock",
+      "quantity": 5
+    },
+    {
+      "id": 4,
+      "name": "Dexamethazone Sodium phosphate",
+      "purpose": "cardiogenic shock",
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Dexamethazone Sodium phosphate",
+      "purpose": "peripheral circulatory collapse",
+      "quantity": 5
+    },
+    {
+      "name": "Dexamethazone Sodium phosphate",
+      "purpose": "status eplipticus",
+      "quantity": "1",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Dexamethazone Sodium phosphate",
+      "purpose": "acute respiratory failure",
+      "quantity": 5
+    },
+    {
+      "name": "Nikenamide.",
+      "purpose": "acute respiratory failure",
+      "quantity": "12",
+      "id": 8
+    },
+    {
+      "name": "Phenobarbitone",
+      "purpose": "status eplipticus",
+      "quantity": "7",
+      "id": 9
+    },
+    {
+      "name": "sample",
+      "purpose": "acute respiratory failure",
+      "quantity": "15",
+      "id": 10
+    },
+    {
+      "name": "sample1",
+      "purpose": "acute respiratory failure",
+      "quantity": "5",
+      "id": 11
+    }
+  ]
+}

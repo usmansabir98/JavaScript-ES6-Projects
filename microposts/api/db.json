@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Pakistan Elections 2018",
+      "body": "Elections will be held on 25th July, 2018"
+    },
+    {
+      "id": 2,
+      "title": "Pakistan beats England at Lord's",
+      "body": "Pakistan inflicted a crushing defeat on England with an inexperienced side"
+    },
+    {
+      "id": 3,
+      "title": "Kings of UCL: Real Madrid",
+      "body": "Real Madrid beats Liverpool in UCL Final #HalaMadrid"
+    },
+    {
+      "title": "Query regarding Problem 5: Reading Response",
+      "body": "AAS",
+      "id": 4
+    }
+  ]
+}
